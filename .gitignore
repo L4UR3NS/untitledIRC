@@ -1,0 +1,10 @@
+.env
+.versions
+build/
+unrealircd/
+!unrealircd/templates/
+!unrealircd/templates/**
+anope/
+!anope/templates/
+!anope/templates/**
+__pycache__/
